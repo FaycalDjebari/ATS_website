@@ -1,0 +1,9 @@
+.navbar-item,.navbar-link {
+    font-family: "Arial Narrow";
+
+}
+
+div#navMenu.navbar-menu.is-active.navbar-end div a {
+   font-size: 80px;
+}
+
